@@ -1,0 +1,58 @@
+/*Scenario A */
+[
+  {
+    "SkuId": "A",
+    "SkuQty": "1"
+  },
+  {
+    "SkuId": "B",
+    "SkuQty": "1"
+  },
+  {
+    "SkuId": "C",
+    "SkuQty": "1"
+  }
+
+]
+  
+
+/*Scenario B
+[
+  {
+    "SkuId": "A",
+    "SkuQty": "5"
+  },
+  {
+    "SkuId": "B",
+    "SkuQty": "5"
+  },
+  {
+    "SkuId": "C",
+    "SkuQty": "1"
+  }
+
+]
+  */
+
+
+/*Scenario C
+[
+  {
+    "SkuId": "A",
+    "SkuQty": "3"
+  },
+  {
+    "SkuId": "B",
+    "SkuQty": "5"
+  },
+  {
+    "SkuId": "C",
+    "SkuQty": "1"
+  },
+  {
+    "SkuId": "D",
+    "SkuQty": "1"
+  }
+
+]
+  */

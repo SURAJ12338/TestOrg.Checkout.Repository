@@ -18,7 +18,7 @@ namespace TestOrg.Checkout.Models
 
     public class SkuInCart
     {
-        public List<SingleSkuInCart> SkusInDB { get; set; }
+        public List<SingleSkuInCart> SkusInCart { get; set; }
     }
 
 
@@ -29,9 +29,16 @@ namespace TestOrg.Checkout.Models
     }
 
     public class Promotions
-        {
-            public int PromotionId { get; set; }
-            public string PromotionData { get; set; }
+    {
+        public List<SinglePromotion> Promotion { get; set; }
 
-        }
+    }
+
+    public class SinglePromotion
+    {
+        public int PromotionId { get; set; }
+        public string PromotionData { get; set; }
+
+    }
+
 }

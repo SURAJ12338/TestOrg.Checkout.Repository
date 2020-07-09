@@ -1,0 +1,14 @@
+[
+  {
+    "PromotionId": "1",
+    "PromotionData": "{ \"SkuId\" : \"A\",\"SkuQty\": \"3\",\"PromotionalPrice\": \"130\"}"
+  },
+  {
+    "PromotionId": "1",
+    "PromotionData": "{ \"SkuId\": \"B\",\"SkuQty\": \"2\", \"PromotionalPrice\": \"45\"}"
+  },
+  {
+    "PromotionId": "2",
+    "PromotionData": "{ \"SkuOneId\": \"C\",\"SkuTwoId\": \"D\",\"PromotionalPrice\": \"30\"}"
+  }
+]

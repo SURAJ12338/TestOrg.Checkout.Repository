@@ -1,0 +1,18 @@
+[
+  {
+    "SkuId": "A",
+    "SkuPrice": "50"
+  },
+  {
+    "SkuId": "B",
+    "SkuPrice": "30"
+  },
+  {
+    "SkuId": "C",
+    "SkuPrice": "20"
+  },
+  {
+    "SkuId": "D",
+    "SkuPrice": "15"
+  }
+]
